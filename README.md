@@ -1,1 +1,1 @@
-# Rocio-curso
+Este proyecto es un prueba de como clonar Github a mi computadora
